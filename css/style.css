@@ -114,7 +114,7 @@ section{
 .header .navbar a{
    font-size: 2rem;
    margin-left: 2rem;
-   color:var(--white);
+   color: black;
    border-radius: 3rem;
    padding:.8rem 1.4rem; 
    /* box-shadow: 0 0 1rem var(--peru);  */
@@ -128,7 +128,7 @@ section{
 #menu-btn{
    font-size: 2.5rem;
    cursor: pointer;
-   color:var(--black);
+   color: white;
    display: none;
 }
 
